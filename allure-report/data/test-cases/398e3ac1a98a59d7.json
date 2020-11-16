@@ -1,0 +1,56 @@
+{
+  "uid" : "398e3ac1a98a59d7",
+  "name" : "When I enter \"postcode\" \"85006\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter \"postcode\" \"85006\"",
+  "historyId" : "1d43045742b2ad2616fb0d1d4ba855d1",
+  "time" : {
+    "start" : 1605522672285,
+    "stop" : 1605522672285,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter \"postcode\" \"85006\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "398e3ac1a98a59d7.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

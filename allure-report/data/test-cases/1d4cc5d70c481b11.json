@@ -1,0 +1,82 @@
+{
+  "uid" : "1d4cc5d70c481b11",
+  "name" : "When I enter \"city\" \"Melbourne\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter \"city\" \"Melbourne\"",
+  "historyId" : "e6399e2d126f2289154ebfaceb18bdc4",
+  "time" : {
+    "start" : 1605523338709,
+    "stop" : 1605523338709,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter \"city\" \"Melbourne\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7f210bfc6cfb4e50",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522940747,
+        "stop" : 1605522940747,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8f958ee14397a9c8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522826111,
+        "stop" : 1605522826111,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a3c97126df8fcd6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522672284,
+        "stop" : 1605522672285,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d4cc5d70c481b11.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

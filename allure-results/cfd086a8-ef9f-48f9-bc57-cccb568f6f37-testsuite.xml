@@ -1,0 +1,473 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1605524405666' stop='1605524461304'>
+    <name>Register on the website: Signup a new customer</name>
+    <title>Register on the website: Signup a new customer</title>
+    <test-cases>
+        <test-case start='1605524405668' status='passed' stop='1605524405670'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524405671' status='passed' stop='1605524417018'>
+            <name>Given I'm on the Automation Practise landing page</name>
+            <title>Given I'm on the Automation Practise landing page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524417019' status='passed' stop='1605524421323'>
+            <name>When I click "Sign in" link</name>
+            <title>When I click "Sign in" link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524421324' status='passed' stop='1605524422443'>
+            <name>When I enter "email" "vinitmalhotra11@gmail.com"</name>
+            <title>When I enter "email" "vinitmalhotra11@gmail.com"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524422444' status='passed' stop='1605524429057'>
+            <name>When I click "Create an account" button</name>
+            <title>When I click "Create an account" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524429057' status='passed' stop='1605524429732'>
+            <name>When I select "Mr" title</name>
+            <title>When I select "Mr" title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524429732' status='passed' stop='1605524430459'>
+            <name>When I enter "firstname" "Vinit"</name>
+            <title>When I enter "firstname" "Vinit"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524430460' status='passed' stop='1605524431233'>
+            <name>When I enter "lastname" "Malhotra"</name>
+            <title>When I enter "lastname" "Malhotra"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524431233' status='passed' stop='1605524432067'>
+            <name>When I enter "email" "vinitmalhotra11@gmail.com"</name>
+            <title>When I enter "email" "vinitmalhotra11@gmail.com"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524432067' status='passed' stop='1605524432775'>
+            <name>When I enter "passwd" "Password1"</name>
+            <title>When I enter "passwd" "Password1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524432776' status='passed' stop='1605524433461'>
+            <name>When I enter date "4"</name>
+            <title>When I enter date "4"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524433461' status='passed' stop='1605524434049'>
+            <name>When I enter month "3"</name>
+            <title>When I enter month "3"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524434049' status='passed' stop='1605524434574'>
+            <name>When I enter year "1987"</name>
+            <title>When I enter year "1987"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524434574' status='passed' stop='1605524435339'>
+            <name>When I enter the "address" "55 collins street"</name>
+            <title>When I enter the "address" "55 collins street"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524435339' status='passed' stop='1605524436013'>
+            <name>When I enter the "city" "Melbourne"</name>
+            <title>When I enter the "city" "Melbourne"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524436014' status='passed' stop='1605524436623'>
+            <name>When I enter state "Arizona"</name>
+            <title>When I enter state "Arizona"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524436623' status='passed' stop='1605524437378'>
+            <name>When I enter the "postcode" "85006"</name>
+            <title>When I enter the "postcode" "85006"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524437379' status='passed' stop='1605524438060'>
+            <name>When I enter country "United States"</name>
+            <title>When I enter country "United States"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524438060' status='passed' stop='1605524438850'>
+            <name>When I enter the "mobile" "0449100411"</name>
+            <title>When I enter the "mobile" "0449100411"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524438850' status='passed' stop='1605524447753'>
+            <name>When I click "Register" button</name>
+            <title>When I click "Register" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524447753' status='passed' stop='1605524448314'>
+            <name>Then I Validate "Vinit Malhotra" on the landing screen</name>
+            <title>Then I Validate "Vinit Malhotra" on the landing screen</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524448314' status='passed' stop='1605524449238'>
+            <name>When I search a product "Printed Chiffon Dress"</name>
+            <title>When I search a product "Printed Chiffon Dress"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524449238' status='passed' stop='1605524459078'>
+            <name>When I click "Search" button</name>
+            <title>When I click "Search" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524459078' status='passed' stop='1605524460022'>
+            <name>When I move to "In stock" button</name>
+            <title>When I move to "In stock" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524460022' status='passed' stop='1605524460643'>
+            <name>When I click the "Add to cart" button</name>
+            <title>When I click the "Add to cart" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524460644' status='broken' stop='1605524461298'>
+            <name>When I click the "Proceed to checkout" button</name>
+            <title>When I click the "Proceed to checkout" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element not interactable
+                  (Session info: chrome=86.0.4240.111)</message>
+                <stack-trace>element not interactable
+                  (Session info: chrome=86.0.4240.111)
+                    at Object.getErrorFromResponseBody (D:\Users\vimalhot\Documents\webdriver-io\node_modules\webdriver\build\utils.js:94:12)
+                    at WebDriverRequest._request (D:\Users\vimalhot\Documents\webdriver-io\node_modules\webdriver\build\request.js:133:31)
+                    at runMicrotasks (&lt;anonymous>)
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+                    at async Element.elementErrorHandlerCallbackFn (D:\Users\vimalhot\Documents\webdriver-io\node_modules\webdriverio\build\middlewares.js:17:32)
+                    at async Element.runCommandWithHooks (D:\Users\vimalhot\Documents\webdriver-io\node_modules\@wdio\sync\build\wrapCommand.js:70:25)
+                    at Element.runCommandWithHooks (D:\Users\vimalhot\Documents\webdriver-io\node_modules\@wdio\sync\build\wrapCommand.js:65:24)
+                    at Element.wrapCommandFn (D:\Users\vimalhot\Documents\webdriver-io\node_modules\@wdio\sync\build\wrapCommand.js:44:44)
+                    at Element.elementErrorHandlerCallback (D:\Users\vimalhot\Documents\webdriver-io\node_modules\webdriverio\build\middlewares.js:34:12)
+                    at World.&lt;anonymous> (D:\Users\vimalhot\Documents\webdriver-io\step-definitions\registration.js:78:10)
+                    at World.executeSync (D:\Users\vimalhot\Documents\webdriver-io\node_modules\@wdio\sync\build\index.js:25:22)
+                    at D:\Users\vimalhot\Documents\webdriver-io\node_modules\@wdio\sync\build\index.js:46:68</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1605524461298' status='pending' stop='1605524461298'>
+            <name>When I navigate by clicking "Proceed to checkout" button</name>
+            <title>When I navigate by clicking "Proceed to checkout" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524461298' status='pending' stop='1605524461299'>
+            <name>When I navigate by clicking "Proceed to checkout" button</name>
+            <title>When I navigate by clicking "Proceed to checkout" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524461299' status='pending' stop='1605524461300'>
+            <name>When I agree TC</name>
+            <title>When I agree TC</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524461300' status='pending' stop='1605524461301'>
+            <name>When I navigate by clicking "Proceed to checkout" button</name>
+            <title>When I navigate by clicking "Proceed to checkout" button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524461301' status='pending' stop='1605524461301'>
+            <name>Then I Validate "Printed Chiffon Dress" on the payments page</name>
+            <title>Then I Validate "Printed Chiffon Dress" on the payments page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1605524461302' status='passed' stop='1605524461303'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-86.0.4240.111'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

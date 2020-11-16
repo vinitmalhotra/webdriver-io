@@ -1,0 +1,56 @@
+{
+  "uid" : "b14797b4aa5f6eb7",
+  "name" : "When I click the \"Proceed to checkout\" button",
+  "fullName" : "Register on the website: Signup a new customer.When I click the \"Proceed to checkout\" button",
+  "historyId" : "5452dad6499e0e1cdcce925ea6ed03e8",
+  "time" : {
+    "start" : 1605523338712,
+    "stop" : 1605523338713,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click the \"Proceed to checkout\" button"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b14797b4aa5f6eb7.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

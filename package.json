@@ -4,8 +4,8 @@
   "description": "This is webdriverio",
   "main": "index.js",
   "scripts": {
-    "test": "wdio wdio.conf.js",
-    "test2": "allure generate allure_results/ && allure open"
+    "test": "./node_modules/.bin/wdio wdio.conf.js",
+    "reports":"node_modules/.bin/allure generate allure-results/ --clean"
   },
   "author": "Vinit Malhotra",
   "license": "ISC",

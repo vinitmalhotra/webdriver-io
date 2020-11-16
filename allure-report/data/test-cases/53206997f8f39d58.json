@@ -1,0 +1,56 @@
+{
+  "uid" : "53206997f8f39d58",
+  "name" : "Then I Validate \"Vinit Malhotra\" on the landing screen",
+  "fullName" : "Register on the website: Signup a new customer.Then I Validate \"Vinit Malhotra\" on the landing screen",
+  "historyId" : "75badc9bce120ee97dc437b0a0b89ee0",
+  "time" : {
+    "start" : 1605522672285,
+    "stop" : 1605522672286,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I Validate \"Vinit Malhotra\" on the landing screen"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53206997f8f39d58.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "105f5f3879049fe6",
+  "name" : "When I enter \"email\" \"vinitmalhotra12@gmail.com\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter \"email\" \"vinitmalhotra12@gmail.com\"",
+  "historyId" : "ba1fb91f61a53aed2e136c16d5ab94b1",
+  "time" : {
+    "start" : 1605524804541,
+    "stop" : 1605524805300,
+    "duration" : 759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter \"email\" \"vinitmalhotra12@gmail.com\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "75bf1f146774dc79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524794609,
+        "stop" : 1605524795519,
+        "duration" : 910
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "105f5f3879049fe6.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

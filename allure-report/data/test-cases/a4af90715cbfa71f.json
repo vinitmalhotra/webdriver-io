@@ -1,0 +1,56 @@
+{
+  "uid" : "a4af90715cbfa71f",
+  "name" : "When I select \"Mr\" title",
+  "fullName" : "Register on the website: Signup a new customer.When I select \"Mr\" title",
+  "historyId" : "f69896c3e23b43c48b3eda039f34df71",
+  "time" : {
+    "start" : 1605524802154,
+    "stop" : 1605524802829,
+    "duration" : 675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I select \"Mr\" title"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4af90715cbfa71f.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

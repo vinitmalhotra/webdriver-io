@@ -1,0 +1,89 @@
+{
+  "uid" : "633488ca5305ab43",
+  "name" : "When I enter \"address\" \"55 collins street\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter \"address\" \"55 collins street\"",
+  "historyId" : "e91b59846653a9d1e294e973cbb719a4",
+  "time" : {
+    "start" : 1605523328190,
+    "stop" : 1605523338709,
+    "duration" : 10519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call setValue on element with selector \"//input[contains(@class,'is_required')][contains(@name,'address')]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call setValue on element with selector \"//input[contains(@class,'is_required')][contains(@name,'address')]\" because element wasn't found\n                    at Object.implicitWait [as default] (D:\\Users\\vimalhot\\Documents\\webdriver-io\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:26:19)\n                    at Element.runCommandWithHooks (D:\\Users\\vimalhot\\Documents\\webdriver-io\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (D:\\Users\\vimalhot\\Documents\\webdriver-io\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (D:\\Users\\vimalhot\\Documents\\webdriver-io\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at World.<anonymous> (D:\\Users\\vimalhot\\Documents\\webdriver-io\\step-definitions\\registration.js:48:13)\n                    at World.executeSync (D:\\Users\\vimalhot\\Documents\\webdriver-io\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at D:\\Users\\vimalhot\\Documents\\webdriver-io\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter \"address\" \"55 collins street\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d9e8b0a5fdb575ec",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"//input[contains(@class,'is_required')][contains(@name,'address')]\" because element wasn't found",
+      "time" : {
+        "start" : 1605522930274,
+        "stop" : 1605522940746,
+        "duration" : 10472
+      }
+    }, {
+      "uid" : "e3a617d31a1338d4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522826111,
+        "stop" : 1605522826111,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cfc958711397a60d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522672284,
+        "stop" : 1605522672284,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "633488ca5305ab43.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

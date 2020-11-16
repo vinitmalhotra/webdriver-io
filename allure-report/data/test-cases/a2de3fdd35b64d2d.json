@@ -1,0 +1,114 @@
+{
+  "uid" : "a2de3fdd35b64d2d",
+  "name" : "When I enter \"firstname\" \"Vinit\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter \"firstname\" \"Vinit\"",
+  "historyId" : "36875102526fd2d54a1daa1ae84d8209",
+  "time" : {
+    "start" : 1605525627299,
+    "stop" : 1605525628065,
+    "duration" : 766
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter \"firstname\" \"Vinit\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6c660240883c4c52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524802829,
+        "stop" : 1605524803696,
+        "duration" : 867
+      }
+    }, {
+      "uid" : "fb391da1c8be8cc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524429732,
+        "stop" : 1605524430459,
+        "duration" : 727
+      }
+    }, {
+      "uid" : "de74bbc285fc7b10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523436393,
+        "stop" : 1605523437146,
+        "duration" : 753
+      }
+    }, {
+      "uid" : "51619673a87c9d46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523323371,
+        "stop" : 1605523324101,
+        "duration" : 730
+      }
+    }, {
+      "uid" : "84bec99fdbcdd8b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605522925469,
+        "stop" : 1605522926188,
+        "duration" : 719
+      }
+    }, {
+      "uid" : "1758b73916cd5f3d",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522826106,
+        "stop" : 1605522826107,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c66e3bcc9482c636",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522672280,
+        "stop" : 1605522672282,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2de3fdd35b64d2d.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

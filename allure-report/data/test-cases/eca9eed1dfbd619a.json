@@ -1,0 +1,122 @@
+{
+  "uid" : "eca9eed1dfbd619a",
+  "name" : "When I search a product \"Printed Chiffon Dress\"",
+  "fullName" : "Register on the website: Signup a new customer.When I search a product \"Printed Chiffon Dress\"",
+  "historyId" : "57e9a5bea62ac4290f5f754e019618a1",
+  "time" : {
+    "start" : 1605525646276,
+    "stop" : 1605525647207,
+    "duration" : 931
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search a product \"Printed Chiffon Dress\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "eb2fc90c6e9058",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524825602,
+        "stop" : 1605524826479,
+        "duration" : 877
+      }
+    }, {
+      "uid" : "98d1083414997f94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524448314,
+        "stop" : 1605524449238,
+        "duration" : 924
+      }
+    }, {
+      "uid" : "7b4ae90a4d2f8634",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523454939,
+        "stop" : 1605523455827,
+        "duration" : 888
+      }
+    }, {
+      "uid" : "f898785739e49719",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605523338711,
+        "stop" : 1605523338712,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b653a5ed80a66ff9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522940750,
+        "stop" : 1605522940751,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "82a2451eaf64f9cc",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522826113,
+        "stop" : 1605522826113,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c76837d169e62bf9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522672286,
+        "stop" : 1605522672286,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4ace4026ac514528",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515724725,
+        "stop" : 1605515725441,
+        "duration" : 716
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eca9eed1dfbd619a.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

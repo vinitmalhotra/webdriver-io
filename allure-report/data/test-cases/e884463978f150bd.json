@@ -1,0 +1,122 @@
+{
+  "uid" : "e884463978f150bd",
+  "name" : "Then I Validate \"Vinit Malhotra\" on the landing screen",
+  "fullName" : "Register on the website: Signup a new customer.Then I Validate \"Vinit Malhotra\" on the landing screen",
+  "historyId" : "75badc9bce120ee97dc437b0a0b89ee0",
+  "time" : {
+    "start" : 1605525645642,
+    "stop" : 1605525646276,
+    "duration" : 634
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I Validate \"Vinit Malhotra\" on the landing screen"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4cde66462801a06f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524825103,
+        "stop" : 1605524825602,
+        "duration" : 499
+      }
+    }, {
+      "uid" : "bc9b1650af59e07c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524447753,
+        "stop" : 1605524448314,
+        "duration" : 561
+      }
+    }, {
+      "uid" : "9ceb2a81100d232",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523454445,
+        "stop" : 1605523454939,
+        "duration" : 494
+      }
+    }, {
+      "uid" : "2935ba17f2b49e8c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605523338711,
+        "stop" : 1605523338711,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9fb70b7619de01f8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522940750,
+        "stop" : 1605522940750,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9457a07b9ebdac77",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522826113,
+        "stop" : 1605522826113,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "53206997f8f39d58",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522672285,
+        "stop" : 1605522672286,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e0287f578f512756",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515724242,
+        "stop" : 1605515724725,
+        "duration" : 483
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e884463978f150bd.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

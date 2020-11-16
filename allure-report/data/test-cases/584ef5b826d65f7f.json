@@ -1,0 +1,82 @@
+{
+  "uid" : "584ef5b826d65f7f",
+  "name" : "When I enter the \"mobile\" \"0449100411\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter the \"mobile\" \"0449100411\"",
+  "historyId" : "f0a6aa55323060f8284ca1f2f31e3dba",
+  "time" : {
+    "start" : 1605525635951,
+    "stop" : 1605525636722,
+    "duration" : 771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter the \"mobile\" \"0449100411\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a2ee104916d1bc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524811389,
+        "stop" : 1605524812143,
+        "duration" : 754
+      }
+    }, {
+      "uid" : "d2dd54eb9c578c80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524438060,
+        "stop" : 1605524438850,
+        "duration" : 790
+      }
+    }, {
+      "uid" : "2251219644bf5e8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523444684,
+        "stop" : 1605523445315,
+        "duration" : 631
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "584ef5b826d65f7f.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

@@ -1,0 +1,82 @@
+{
+  "uid" : "78e130f3517ff14c",
+  "name" : "When I enter the \"address\" \"55 collins street\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter the \"address\" \"55 collins street\"",
+  "historyId" : "d7484ddfb20c7880f4f315c1e756b1b1",
+  "time" : {
+    "start" : 1605525632506,
+    "stop" : 1605525633293,
+    "duration" : 787
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter the \"address\" \"55 collins street\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "801e26bc05e8610f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524807866,
+        "stop" : 1605524808702,
+        "duration" : 836
+      }
+    }, {
+      "uid" : "4802ed7d644ce87c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524434574,
+        "stop" : 1605524435339,
+        "duration" : 765
+      }
+    }, {
+      "uid" : "8a3353d46b47dc3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523441334,
+        "stop" : 1605523442047,
+        "duration" : 713
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78e130f3517ff14c.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

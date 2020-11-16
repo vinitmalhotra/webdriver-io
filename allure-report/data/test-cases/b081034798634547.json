@@ -1,0 +1,122 @@
+{
+  "uid" : "b081034798634547",
+  "name" : "Then I Validate \"Printed Chiffon Dress\" on the payments page",
+  "fullName" : "Register on the website: Signup a new customer.Then I Validate \"Printed Chiffon Dress\" on the payments page",
+  "historyId" : "56ee3871ad2060273a23f4b5990f0044",
+  "time" : {
+    "start" : 1605525682460,
+    "stop" : 1605525683019,
+    "duration" : 559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I Validate \"Printed Chiffon Dress\" on the payments page"
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "165ba0baebda8f15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524865227,
+        "stop" : 1605524865805,
+        "duration" : 578
+      }
+    }, {
+      "uid" : "777ad4a756f7473b",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605524461301,
+        "stop" : 1605524461301,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "77eea34846cfd875",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523502445,
+        "stop" : 1605523502955,
+        "duration" : 510
+      }
+    }, {
+      "uid" : "49aae207ec21f18c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605523338714,
+        "stop" : 1605523338714,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "61a08a14a1a189f2",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522940754,
+        "stop" : 1605522940754,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "19c9d084c7a478a9",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522826116,
+        "stop" : 1605522826116,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d64fea27ff247c48",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522672287,
+        "stop" : 1605522672287,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "31cd88840dfa6a37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515770053,
+        "stop" : 1605515770552,
+        "duration" : 499
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b081034798634547.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

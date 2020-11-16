@@ -1,0 +1,56 @@
+{
+  "uid" : "7f7a2d92536f7f96",
+  "name" : "When I enter \"email\" \"vinit88@gmail.com\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter \"email\" \"vinit88@gmail.com\"",
+  "historyId" : "dc892932c975fe4c5f9a3c1bbbb6db47",
+  "time" : {
+    "start" : 1605523428002,
+    "stop" : 1605523429100,
+    "duration" : 1098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter \"email\" \"vinit88@gmail.com\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f7a2d92536f7f96.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

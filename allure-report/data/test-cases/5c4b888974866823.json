@@ -1,0 +1,122 @@
+{
+  "uid" : "5c4b888974866823",
+  "name" : "When I enter state \"Arizona\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter state \"Arizona\"",
+  "historyId" : "e06be24f5b3ef19235e26f7418baf020",
+  "time" : {
+    "start" : 1605525634087,
+    "stop" : 1605525634674,
+    "duration" : 587
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter state \"Arizona\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "924384b733f0ba20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524809412,
+        "stop" : 1605524810106,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "809e82092b590f85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605524436014,
+        "stop" : 1605524436623,
+        "duration" : 609
+      }
+    }, {
+      "uid" : "29634ddb03ae40b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605523442768,
+        "stop" : 1605523443394,
+        "duration" : 626
+      }
+    }, {
+      "uid" : "27e7d9696bbf471f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605523338709,
+        "stop" : 1605523338710,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bcf18f461e6d2ff6",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522940747,
+        "stop" : 1605522940748,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fc98afeb39898113",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522826111,
+        "stop" : 1605522826111,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "48388e4b9692938f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1605522672285,
+        "stop" : 1605522672285,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "27b5e166c19037",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515713148,
+        "stop" : 1605515713634,
+        "duration" : 486
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c4b888974866823.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}

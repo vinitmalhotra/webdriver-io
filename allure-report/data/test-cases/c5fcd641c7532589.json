@@ -1,0 +1,72 @@
+{
+  "uid" : "c5fcd641c7532589",
+  "name" : "When I enter the email address \"vinit0@gmail.com\"",
+  "fullName" : "Register on the website: Signup a new customer.When I enter the email address \"vinit0@gmail.com\"",
+  "historyId" : "409de4cea0f8079954df730c03769d4f",
+  "time" : {
+    "start" : 1605522672277,
+    "stop" : 1605522672278,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Step \"When I enter the email address \"vinit0@gmail.com\"\" is not definedYou can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+  "statusTrace" : "undefined:undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testClass",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter the email address \"vinit0@gmail.com\""
+  }, {
+    "name" : "package",
+    "value" : "Register on the website: Signup a new customer"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.111"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8562cf52df3cc4ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605515693983,
+        "stop" : 1605515700927,
+        "duration" : 6944
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c5fcd641c7532589.json",
+  "parameterValues" : [ "chrome-86.0.4240.111" ]
+}
